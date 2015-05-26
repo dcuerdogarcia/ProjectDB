@@ -6,7 +6,7 @@ package Vista;
 import Controlador.*;
 /**
  *
- * @author David
+ * @author dcuerdogarcia
  */
 public class VPrincipal extends javax.swing.JFrame {
 Conexion cn;

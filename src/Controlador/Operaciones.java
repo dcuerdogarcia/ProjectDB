@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author David
+ * @author dcuerdogarcia
  */
 public class Operaciones {
     

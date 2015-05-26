@@ -9,7 +9,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 /**
  *
- * @author David
+ * @author dcuerdogarcia
  */
 public class Conexion {
     private Connection conn = null;

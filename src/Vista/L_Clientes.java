@@ -9,7 +9,7 @@ import Controlador.*;
 import java.sql.Connection;
 /**
  *
- * @author David
+ * @author dcuerdogarcia
  */
 public class L_Clientes extends javax.swing.JDialog {
 Connection con;
